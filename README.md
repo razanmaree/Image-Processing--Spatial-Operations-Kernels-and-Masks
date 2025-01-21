@@ -6,7 +6,7 @@ In the ‘q1’ folder there’s an image file, “1.jpg”, of an otter:
 
 There are several additional grayscale image files in the q1 folder, where each one is the same image of an otter… Except each image had a spatial operation performed on it. In this question you’ll be tested to see if you can identify just what kind of spatial operation/mask has been applied on each image (assume the original image itself was also in grayscale).
 
-## 10 points bonus:
+## Bonus:
 Fully identify the spatial operations applied on each image as accurately as you can and, using python, apply them yourselves on the original image (after you convert it to grayscale)! 
 
 
